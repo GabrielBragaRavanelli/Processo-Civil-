@@ -31,17 +31,21 @@ JURISDIÇÃO
   -
   -
 - Espécies de jurisdiçâo
+
   - Cotencioso
     -Neste caso a parte busca obter uma determinação que obrigue a parte contrária, ou seja, são partes antagônicas em conflito, que deve ser solucionado pelo juiz.
+  
   - Voluntário
     -É a atuação do juiz em uma situação em que não há conflito (litígio), mas apenas a necessidade de se tutelar (amparar) um direito ou interesse o que deve ser feito pelo Judiciário.
     
 - Funções essênciais a justiça
   - Magistratura
     -3 garantias:
+    
       -Vilalicidade
       -Inamovibilidade
       -Irredutibilidade de vencimentos
+      
   - Deveres
     -
     
