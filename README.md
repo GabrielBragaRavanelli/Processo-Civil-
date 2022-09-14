@@ -34,7 +34,7 @@ Jurisdição
 - Funções essênciais a justiça
   - Magistratura
     - 3 garantias
-      -
+      - Vilalicidade
       -
       -
   - Deveres
