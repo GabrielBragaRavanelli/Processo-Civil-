@@ -22,10 +22,12 @@ JURISDIÇÃO
    - Execução: É quando o juiz desencadeia atos coativos (sanções) contra o patrimônio do devedor, para satisfazer o direito obtido pelo credor.
   
 - Caracteristica da Jurisdição
-  -
-  -
-  -
-  -
+  - Substitutividade: é a substituição das partes na resolução dos litígios, tendo em vista a proibição da autotutela na busca pela satisfação de um direito. O Estado faz a composição que as pessoas deveriam fazer, pacífica ou forçadamente.
+  - Definitividade (indiscutibilidade ou imutabilidade): após determinado momento as decisões judiciais não podem ser mais modificadas, tornando-se imutáveis, o que é necessário para garantir a segurança das relações jurídicas, dando tranquilidade às partes acerca do resultado final da demanda (estabilidade). Isso ocorre:
+     - quando não há interposição de recurso;
+     - quando são esgotados todos os meios recursais disponibilizados no CPC.
+  - Imperatividade: as decisões judiciais obrigam os litigantes. Elas são impostas através de mecanismos de coerção.
+  - Indelegabilidade: não pode haver delegação de competência, pois a função jurisdicional só pode ser exercida pelo Judiciário, a não ser no caso da arbitragem que é uma forma alternativa de resolução da lide, conforme opção das partes, envolvendo direitos patrimoniais disponíveis. 
   -
   -
   -
