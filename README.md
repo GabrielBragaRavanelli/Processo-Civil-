@@ -40,14 +40,18 @@ JURISDIÇÃO
     
 - Funções essênciais a justiça
   - Magistratura
-    -3 garantias:
+    - 3 garantias:
     
-      -Vilalicidade
-      -Inamovibilidade
-      -Irredutibilidade de vencimentos
+      - Vilalicidade
+      - Inamovibilidade
+      - Irredutibilidade de vencimentos
       
   - Deveres
-    -
+    - proibição de exercer outro cargo, salvo de magistério.
+    - receber, a qualquer título, custas ou participação em processos.
+    - dedicar-se à atividade político-partidária.
+    - receber auxílios ou contribuições de pessoas físicas, entidades públicas ou privadas, salvo exceções.
+    - exercer a advocacia no juízo ou tribunal do qual se afastou, antes de decorridos 03 anos do afastamento, por aposentadoria ou exoneração.
     
 - Princípios gerais do processo civil
   -
