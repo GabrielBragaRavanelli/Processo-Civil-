@@ -19,7 +19,7 @@ JURISDIÇÃO
 
  - A juridição pode ser feita da forma de:
    - Cognição: Onde o juiz analisa os fatos trazidos pelas partes e, ao final, profere uma decisão.
-   - Execução: É quando o juiz desencadeia atos coativos contra o patrimônio do devedor, para satisfazer o direito obtido pelo credor.
+   - Execução: É quando o juiz desencadeia atos coativos (sanções) contra o patrimônio do devedor, para satisfazer o direito obtido pelo credor.
   
 - Caracteristica da Jurisdição
   -
@@ -32,15 +32,16 @@ JURISDIÇÃO
   -
 - Espécies de jurisdiçâo
   - Cotencioso
-    - 
+    -Neste caso a parte busca obter uma determinação que obrigue a parte contrária, ou seja, são partes antagônicas em conflito, que deve ser solucionado pelo juiz.
   - Voluntário
-    -
+    -É a atuação do juiz em uma situação em que não há conflito (litígio), mas apenas a necessidade de se tutelar (amparar) um direito ou interesse o que deve ser feito pelo Judiciário.
+    
 - Funções essênciais a justiça
   - Magistratura
-    - 3 garantias
-      - Vilalicidade
-      -
-      -
+    -3 garantias:
+      -Vilalicidade
+      -Inamovibilidade
+      -Irredutibilidade de vencimentos
   - Deveres
     -
     
