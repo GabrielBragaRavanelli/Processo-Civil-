@@ -29,7 +29,10 @@ JURISDIÇÃO
      - quando são esgotados todos os meios recursais disponibilizados no CPC.
   - Imperatividade: as decisões judiciais obrigam os litigantes. Elas são impostas através de mecanismos de coerção.
   - Indelegabilidade: não pode haver delegação de competência, pois a função jurisdicional só pode ser exercida pelo Judiciário, a não ser no caso da arbitragem que é uma forma alternativa de resolução da lide, conforme opção das partes, envolvendo direitos patrimoniais disponíveis. 
-  - Inafastabilidade (indeclinabilidade – artigo 140 do CPC): conforme visto anteriormente o Judiciário (ou a atividade jurisdicional) não pode ser afastado de apreciar lesão ou ameaça a direito. Além do mais não pode se escusar de julgar alegando lacunas na lei.  É facultativa para o indivíduo, mas obrigatória para o julgador; é o non liquet que significa o juiz afirmar a impossibilidade de julgar a causa por inexistir dispositivo legal que regule a matéria, ou seja, o poder de o juiz não julgar; ele é obrigado a pronunciar-se. Ele não pode alegar que a lei é omissa ou que os fatos não foram apurados adequadament
+  - Inafastabilidade (indeclinabilidade – artigo 140 do CPC): conforme visto anteriormente o Judiciário (ou a atividade jurisdicional) não pode ser afastado de apreciar lesão ou ameaça a direito. Além do mais não pode se escusar de julgar alegando lacunas na lei.  É facultativa para o indivíduo, mas obrigatória para o julgador; é o non liquet que significa o juiz afirmar a impossibilidade de julgar a causa por inexistir dispositivo legal que regule a matéria, ou seja, o poder de o juiz não julgar; ele é obrigado a pronunciar-se. Ele não pode alegar que a lei é omissa ou que os fatos não foram apurados adequadamente.
+  - Inércia
+  - Investidura
+  - Aderência ao territorio
   
 - Espécies de jurisdiçâo
 
