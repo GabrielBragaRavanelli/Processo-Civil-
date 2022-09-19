@@ -42,7 +42,7 @@ JURISDIÇÃO
   - Voluntário
     -É a atuação do juiz em uma situação em que não há conflito (litígio), mas apenas a necessidade de se tutelar (amparar) um direito ou interesse o que deve ser feito pelo Judiciário.
     
-- FUNÇÕES ESSEMCIAS A JUSTIÇA
+- FUNÇÕES ESSENCIAIS A JUSTIÇA
   - Magistratura
     - 3 garantias:
     
