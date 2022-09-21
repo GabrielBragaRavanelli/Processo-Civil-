@@ -4,8 +4,8 @@ Estudos para a prova
 
 Jurisdição
 QUANTO AS FONTES:
-• jurisprudencial: dada pelos tribunais na reiteração de julgados (casos concretos) num ou noutro sentido e que pode ajudar o julgador a formar sua convicção (sem força vinculante);
-• doutrinária: feita pelos estudiosos do direito (sem força vinculante).
+- Jurisprudencial: dada pelos tribunais na reiteração de julgados (casos concretos) num ou noutro sentido e que pode ajudar o julgador a formar sua convicção (sem força vinculante);
+- Doutrinária: feita pelos estudiosos do direito (sem força vinculante).
 
 MEIOS DE INTERPRETAÇÃO DA LEI DE PROCESSO CIVIL:
 - Gramatical (literal): exame do texto legal do ponto de vista linguístico, procurando extrair de cada palavra o significado da norma.
