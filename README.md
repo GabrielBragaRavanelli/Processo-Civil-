@@ -21,6 +21,7 @@ JURISDIÇÃO
  - A juridição pode ser feita da forma de:
    - Cognição: Onde o juiz analisa os fatos trazidos pelas partes e, ao final, profere uma decisão.
    - Execução: É quando o juiz desencadeia atos coativos (sanções) contra o patrimônio do devedor, para satisfazer o direito obtido pelo credor.
+   - Provisória (de urgência): visa proteger provisoriamente e em caráter de urgência um interesse, bens e pessoas, e poderá incidir tanto no processo de conhecimento como na execução.
   
 - CARACTERISTICA DA JURISDIÇÂO
   - Substitutividade: é a substituição das partes na resolução dos litígios, tendo em vista a proibição da autotutela na busca pela satisfação de um direito. O Estado faz a composição que as pessoas deveriam fazer, pacífica ou forçadamente.
